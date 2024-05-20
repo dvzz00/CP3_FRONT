@@ -1,0 +1,38 @@
+.header {
+    width: 980px;
+    height: 140px;
+    margin-top: 20px;
+    background-color: rgb(37, 80, 80);
+    font-size: 40px;
+    text-align:center;
+    color: white;
+}
+.content{
+    display: flex;
+    position: relative;
+    margin-top: 20px;
+    font-size: 40px;
+    text-align:center;
+    color: white;
+    
+}
+.conteiner{
+    width: 270px;
+    height: 450px;
+    margin-right: 20px;
+    background-color:  rgb(37, 80, 80);
+}
+.conteiner2{ 
+    width: 690px;
+    height: 450px;
+    background-color:  rgb(37, 80, 80);
+}
+.footer{
+    width: 980px;
+    height: 70px;
+    margin-top: 20px;
+    background-color:  rgb(37, 80, 80);
+    font-size: 40px;
+    text-align:center;
+    color: white;
+}
